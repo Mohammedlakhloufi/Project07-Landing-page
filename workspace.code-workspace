@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\M13-RhinoCMS-MLakhloufi"
+		},
+		{
+			"path": "..\\M14-Bootcamp-MLakhloufi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "M12-landing page-MLakhloufi"
+	}
+}
